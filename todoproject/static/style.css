@@ -1,0 +1,16 @@
+.banner{
+background-color:#808000;
+width:100%;
+height:100px;
+margin-bottom:50px;
+}
+.banner-text{
+font-family:cooperblack;
+text-align:center;
+font-size:100px;
+top:10%;
+left:50%;
+position:absolute;
+transform:transform;
+
+}
